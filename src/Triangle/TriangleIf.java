@@ -1,8 +1,8 @@
-package com.company;
+package Triangle;
 
 import java.util.Scanner;
 
-public class Main {
+public class TriangleIf {
 
     public static void main(String[] args) {
         Scanner num = new Scanner(System.in);
