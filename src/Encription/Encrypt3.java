@@ -1,4 +1,4 @@
-package Encrypt;
+package Encription;
 
 import java.util.Scanner;
 
