@@ -2,7 +2,7 @@ package Triangle;
 
 import java.util.Scanner;
 
-public class Triangle {
+public class TriangleBoolean {
 
     public static void main(String[] args) {
         boolean a;
