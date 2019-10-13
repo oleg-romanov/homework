@@ -8,3 +8,9 @@ ITIS, 2019
 4) Encription/Decrypt4.java
 5) Triangle/TriangleBoolean.java
 6) Triangle/Triangleif.java
+## Домашняя работа от 02.10.19:
+1) IsNegative.java,  IsNegativeArr.java
+2) NotZero.java,  NotZeroArr.java
+3) IsX.java, IsXArr.java
+4) a) AnAssotiationArrays.java, б) CrossingArrays.java, 
+в)ArrayDifference.java
