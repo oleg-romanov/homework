@@ -31,6 +31,7 @@ public class ArrayDifference {
             while (j < m) {
                 if (a[i] == b[j]) {
                     d++;
+                    j = m;
                 }
                 j++;
             }
