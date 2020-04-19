@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        List <Boy> boys = new List<>();
-        
+       // List <Boy> boys = new List<>();
+
     }
 }
