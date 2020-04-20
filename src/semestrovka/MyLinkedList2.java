@@ -59,21 +59,19 @@ public class MyLinkedList2 {
 
     public void add(int value) {
         ListElement element = new ListElement();
+        element.setValue(value);
         if (head != null) {
             ListElement elem = head;
             while (elem.getNext() != null) {
                 elem = elem.getNext();
             }
-            element.setValue(value);
             element.setIndex(elem.getIndex() + 1);
             elem.setNext(element);
             element.setPrev(elem);
-            length++;
         } else {
-            element.setValue(value);
             setHead(element);
-            length++;
         }
+        length++;
     }
 
     public void insert(int k) {
