@@ -4,6 +4,10 @@ ITIS, 2020
  <ul>
   <li>src/semestrovka</li>
  </ul>
+## 2 Семестровая работа: 
+<ul>
+ <li>src/timsortNew</li>
+ </li> 
  
 ## Домашняя работа от 12.02.20:
 <ul>
