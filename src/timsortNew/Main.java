@@ -12,7 +12,6 @@ public class Main {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = (int) Math.round((Math.random() * 10000));
         }
-        // int[] arr = { 15, 2, 4, 12, 43, 33, 55, 55, 12, 43, 9, 8, 7 };
         int[] sorted = Arrays.copyOf(arr, arr.length);
 
         System.out.println("Input Array:");
@@ -36,7 +35,7 @@ public class Main {
     }
 
     private static void timSort(int[] arr) {
-        int minRun =  minRun(arr.length);
+        int minRun = (arr.length > 64) ? minRun(arr.length) : arr.length;
         int currentIndex = 1;
         ArrayList<Pair> runs = new ArrayList<>();
         int nextRunStartIndex = 0;
@@ -60,16 +59,6 @@ public class Main {
 
             while (runs.size() > 1) {
                 mergeAt(arr, runs, 0);
-//                int n = runs.size() - 2;
-//                if (n > 0 && runs.get(n-1).size <= runs.get(n).size + runs.get(n+1).size) {
-//                    if (runs.get(n-1).size < runs.get(n+1).size)
-//                        n--;
-//                    mergeAt(arr, runs, n);
-//                } else if (runs.get(n).size <= runs.get(n + 1).size) {
-//                    mergeAt(arr, runs, n);
-//                } else {
-//                    break;
-//                }
             }
         }
     }
