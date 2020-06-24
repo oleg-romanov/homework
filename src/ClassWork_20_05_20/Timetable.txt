@@ -1,0 +1,4 @@
+{roomId:"100";doctorId:"2";time:"10,30";}
+{roomId:"102";doctorId:"1";time:"10,40";}
+{roomId:"100";doctorId:"2";time:"10,50";}
+{roomId:"101";doctorId:"3";time:"20,30";}

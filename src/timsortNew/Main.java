@@ -8,7 +8,7 @@ public class Main {
     static boolean isDebug = false;
 
     public static void main(String[] args) {
-        int[] arr = new int[10000];
+        int[] arr = new int[5000];
         for (int i = 0; i < arr.length; i++) {
             arr[i] = (int) Math.round((Math.random() * 10000));
         }

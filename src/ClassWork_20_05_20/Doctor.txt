@@ -1,0 +1,5 @@
+{ name:”Петр”; Patronymic:”Сидорович”;  surname:”Иванов”; id:"1"; specializationId: "10"; }
+{ name:”Азат”; surname:”Камалиев”; Patronymic:”Тагирович”; id:"5"; specializationId: "12";}
+{ name:”Джон”; surname:”Джексонов”; Patronymic:”Биллович”; id:"2"; specializationId: "9";}
+{ name:”Петр”; Patronymic:”Биллович”;  surname:”Казаков”; id:"4"; specializationId: "16";}
+{ name:”Петр”; Patronymic:”Тагирович”;  surname:”Петров”; id:"8"; specializationId: "14"; }

@@ -12,7 +12,7 @@ public class Matrix {
         }
     }
 
-    double writeMatrix(double a[][]){
+    public static void writeMatrix(double a[][]){
         System.out.println();
     }
     public static void main(String[] args) {

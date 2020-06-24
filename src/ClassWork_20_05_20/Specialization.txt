@@ -1,0 +1,3 @@
+{specialization:"хирург";id:"10";}
+{specialization:"терапевт";id:"11";}
+{specialization:"педиатр";id:"12";}

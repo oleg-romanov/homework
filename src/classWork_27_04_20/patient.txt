@@ -1,0 +1,5 @@
+{ name:”Петр”; patronymic:”Сидорович”;  surname:”Иванов” }
+{ name:”Азат”; surname:”Камалиев”; patronymic:”Тагирович”}
+{ name:”Джон”; surname:”Джексонов”; patronymic:”Биллович”}
+{ name:”Петр”; patronymic:”Биллович”;  surname:”Казаков”}
+{ name:”Петр”; patronymic:”Тагирович”;  surname:”Петров”}

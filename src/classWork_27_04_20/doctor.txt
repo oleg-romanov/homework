@@ -1,0 +1,5 @@
+{ name:”Петр”; otchedstvo:”Сидорович”;  surname:”Иванов” }
+{ name:”Азат”; surname:”Камалиев”; otchedstvo:”Тагирович”}
+{ name:”Джон”; surname:”Джексонов”; otchedstvo:”Биллович”}
+{ name:”Петр”; otchedstvo:”Биллович”;  surname:”Казаков” }
+{ name:”Петр”; otchedstvo:”Тагирович”;  surname:”Петров” }
